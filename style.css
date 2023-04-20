@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  color: #4ecca3;
+  font-family: "Lobster", cursive;
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.playerTitle {
+  color: #4ecca3;
+  font-family: "Lobster", cursive;
+  font-size: 3rem;
+  padding: 7% 0;
+}
+.diceBox {
+  padding: 4% 7%;
+  text-align: center;
+}
+
+.footer {
+  color: aliceblue;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 2rem;
+  font-weight: 400;
+  padding: 3%;
+}
